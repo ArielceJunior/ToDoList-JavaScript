@@ -1,5 +1,5 @@
 <h1 align="center">ToDo List</h1>
-<h4 align='center'>Este é um sistema simples em JavaScript para controlar um sistema de fila encadeada por prioridade.</h2>
+<h4 align='center'>Este é um sistema simples em JavaScript para controlar um sistema de tarefas por prioridade.</h2>
 
 ### Tecnologias Utilizadas:
 * JavaScript
