@@ -20,18 +20,22 @@ minutos foram necessários para conclui-la.
 <figure>
   <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/menu.png?raw=true" alt="Inicial">
 </figure>
+
 ### Fila de tarefas com ordem de prioridade:
 <figure>
   <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/lista.png?raw=true" alt="Inicial">
 </figure>
+
 ### Tarefa em primeiro lugar na fila:
 <figure>
   <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/tarefa-inicio.png?raw=true" alt="Inicial">
 </figure>
+
 ### Tarefa mais antiga:
 <figure>
   <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/tarefa-antiga.png?raw=true" alt="Inicial">
 </figure>
+
 ### Tarefas resolvidas:
 <figure>
   <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/resolvido.png?raw=true" alt="Inicial">
