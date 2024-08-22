@@ -19,7 +19,7 @@ minutos foram necessários para conclui-la.
 - ### Tela Inicial:
 
 <figure>
-  <img src="https://github.com/ArielceJunior/FilaAtendimento/blob/main/images/telainicial.png?raw=true" alt="Inicial">
+  <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/lista.png" alt="Inicial">
 </figure>
 <figure>
   <img src="https://github.com/ArielceJunior/FilaAtendimento/blob/main/images/telainicial2.png?raw=true" alt="Inicial">
