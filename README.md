@@ -18,22 +18,22 @@ minutos foram necessários para conclui-la.
   
 - ### Tela Inicial:
 <figure>
-  <img src="https://github.com/ArielceJunior/FilaAtendimento/blob/main/images/telainicial.png?raw=true" alt="Inicial">
+  <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/menu.png?raw=true" alt="Inicial">
 </figure>
 - ### Fila de tarefas com ordem de prioridade:
 <figure>
-  <img src="ttps://github.com/ArielceJunior/FilaAtendimento/blob/main/images/fila.png?raw=true" alt="Inicial">
+  <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/fila.png?raw=true" alt="Inicial">
 </figure>
 - ### Tarefa em primeiro lugar na fila:
 <figure>
-  <img src="ttps://github.com/ArielceJunior/FilaAtendimento/blob/main/images/tarefa-inicio.png?raw=true" alt="Inicial">
+  <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/tarefa-inicio.png?raw=true" alt="Inicial">
 </figure>
 - ### Tarefa mais antiga:
 <figure>
-  <img src="ttps://github.com/ArielceJunior/FilaAtendimento/blob/main/images/tarefa-antiga.png?raw=true" alt="Inicial">
+  <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/tarefa-antiga.png?raw=true" alt="Inicial">
 </figure>
 - ### Tarefas resolvidas:
 <figure>
-  <img src="ttps://github.com/ArielceJunior/FilaAtendimento/blob/main/images/resolvido.png?raw=true" alt="Inicial">
+  <img src="https://github.com/ArielceJunior/ToDoList-JavaScript/blob/main/imagens/resolvido.png?raw=true" alt="Inicial">
 </figure>
 
